@@ -2,7 +2,7 @@
 
 Kom ihåg att MongoDB är en dokumentdatabas och i dessa databaser är denormalisering OK och uppmuntras.
 
-MongoDB är schema-less, alltså att det är utan schema eller har ett flexiblare ("mindre") schema än SQL har.
+MongoDB är schema-less vilket betyder att det är utan databasschema eller har ett flexiblare ("färre regler") schema än SQL har.
 
 Översikt över schemat för denna uppgift:
 
