@@ -1,3 +1,11 @@
+# Uppkopping till databas
+
+Ni kan med ett extension i VSCode koppla upp er till en databas (Read access endast) och göra övningarna. För att koppla upp er mot databasen klistrat ni in den länk som finns i lektionsmaterialet.
+
+Om ni har Compass installerat kan ni köra detta lokalt genom att ladda in det dataset som finns uppladdat i en egen collection.
+
+
+
 # Förenklat schema för översikt
 
 Kom ihåg att MongoDB är en dokumentdatabas och i dessa databaser är denormalisering OK och uppmuntras.
