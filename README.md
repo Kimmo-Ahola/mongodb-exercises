@@ -1,8 +1,26 @@
+# Klona detta repo till er själva
+
+Skapa ett eget repository på er GitHub
+
+Inuti VSCodes terminal:
+git clone https://github.com/Kimmo-Ahola/mongodb-exercises.git
+eller klicka på clone-knappen inuti VSCode och klistra in länken där.
+
+I terminalen i VSCode skriver ni sedan:
+`git remote remove origin`
+`git remote add origin yourlinkhere`
+
+Detta tar bort kopplingen till mitt repo och ni lägger sedan till en koppling till ert eget repo.
+
+
 # Uppkopping till databas
 
 Ni kan med ett extension i VSCode koppla upp er till en databas (Read access endast) och göra övningarna. För att koppla upp er mot databasen klistrat ni in den länk som finns i lektionsmaterialet.
 
 Om ni har Compass installerat kan ni köra detta lokalt genom att ladda in det dataset som finns uppladdat i en egen collection.
+
+<img width="443" height="143" alt="image" src="https://github.com/user-attachments/assets/0671685f-827b-42ed-8166-d993fa93c67f" />
+<img width="691" height="501" alt="image" src="https://github.com/user-attachments/assets/051eabec-83ef-461d-ab5b-064a0067c599" />
 
 
 
@@ -78,8 +96,11 @@ cast = [{}]
 }
 ```
 
-# 🟢 BASIC QUESTIONS
+För övningarna rekommenderas det att ni gör en övning i taget och pushar upp ändringen till GitHub via Source Control.
 
+
+# 🟢 BASIC QUESTIONS
+# TODO, skriv bättre övningar
 ---
 
 ### 1️⃣ Find the movie missing length and update it
